@@ -1,4 +1,4 @@
-Margaryta-Maletz/frontend-nanodegree-mobile-portfolio/index
+https://margaryta-maletz.github.io/frontend-nanodegree-mobile-portfolio/
 
 ## Website Performance Optimization portfolio project
 
